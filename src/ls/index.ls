@@ -1,0 +1,1 @@
+hoge = -> window.alert \hogehoge
